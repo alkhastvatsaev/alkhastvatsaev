@@ -16,7 +16,7 @@ I build responsive web applications from interface to deployment, with a focus o
 - **[Serrurerie-Alsacienne](https://serrure.vercel.app)** — Service-management PWA built with Next.js and TypeScript, integrating maps, payments, communications, and operational tools. [Source](https://github.com/alkhastvatsaev/Serrurerie-Alsacienne)
 - **[Logistic](https://reach-logistics.vercel.app)** — Logistics operations web application built with Next.js, React, TypeScript, and Firebase. [Source](https://github.com/alkhastvatsaev/logistic)
 - **[Hopla](https://hopla-one.vercel.app)** — Local grocery ordering and delivery application with customer and courier flows for Strasbourg. [Source](https://github.com/alkhastvatsaev/hopla)
-- **ChechenDiaspora** — Community directory and map PWA with search, filtering, and Firebase-backed data. [Source](https://github.com/alkhastvatsaev/ChechenDiaspora)
+- **[Waynakh Diaspora Hub](https://waynakh.vercel.app)** — Community directory and map PWA with search, filtering, and Firebase-backed data. [Source](https://github.com/alkhastvatsaev/ChechenDiaspora)
 - **[Sadaqah](https://sadaqah-mosque-ruddy.vercel.app)** — Mobile-first mosque donation flow built with Next.js, TypeScript, Firebase, and Stripe. [Source](https://github.com/alkhastvatsaev/sadaqah)
 - **[Atelier Aurelia](https://atelier-aurelia-ring.vercel.app)** — Interactive 3D ring configurator built with React, TypeScript, Three.js, and React Three Fiber. [Source](https://github.com/alkhastvatsaev/atelier-aurelia-ring)
 
