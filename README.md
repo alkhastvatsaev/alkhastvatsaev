@@ -25,4 +25,5 @@ I build responsive web applications from interface to deployment, with a focus o
 Available for junior fullstack JavaScript/TypeScript roles in Paris or remote.
 
 - [Portfolio](https://portfolio-github-alkhast-vatsaev.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/alkhast-vatsaev/)
 - [alkhastvatsaev@icloud.com](mailto:alkhastvatsaev@icloud.com)
