@@ -1,8 +1,8 @@
 # Alkhast Vatsaev
 
-Junior Fullstack JavaScript/TypeScript Developer based in Paris.
+Junior Fullstack JavaScript/TypeScript Developer based in Paris — available across France (hybrid or remote).
 
-I build responsive web applications from interface to deployment, with a focus on clear user flows, practical integrations, and maintainable code. I am currently open to junior fullstack opportunities in Paris or remote.
+I build responsive web applications from interface to deployment, with a focus on clear user flows, practical integrations, and maintainable code. I am currently open to junior fullstack opportunities in France.
 
 ## Stack
 
@@ -22,8 +22,9 @@ I build responsive web applications from interface to deployment, with a focus o
 
 ## Contact
 
-Available for junior fullstack JavaScript/TypeScript roles in Paris or remote.
+Available for junior fullstack JavaScript/TypeScript roles in France (Paris, hybrid, or remote).
 
 - [Portfolio](https://alkhastvatsaev.dev)
+- [Développeur Full Stack (FR)](https://alkhastvatsaev.dev/fr/developpeur-full-stack)
 - [LinkedIn](https://www.linkedin.com/in/alkhast-vatsaev/)
 - [alkhastvatsaev@icloud.com](mailto:alkhastvatsaev@icloud.com)
