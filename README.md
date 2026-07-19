@@ -7,12 +7,13 @@ I build responsive web applications from interface to deployment, with a focus o
 ## Stack
 
 **Core:** JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS  
-**Data and integrations:** Firebase, Stripe, REST APIs  
+**Data and integrations:** Firebase, Stripe, Mapbox, REST APIs  
 **UI and specialist tools:** Tailwind CSS, Leaflet, Three.js, React Three Fiber  
 **Quality and delivery:** Git, Vitest, Playwright, Vercel
 
 ## Selected projects
 
+- **[CRM Slot](https://crmslot.vercel.app)** — Flagship field-service CRM / ops PWA (Next.js, TypeScript, Firebase, Mapbox, Stripe). [Source](https://github.com/alkhastvatsaev/crmslot) · [Case study](https://alkhastvatsaev.dev/projects/crmslot) · [Pricing](https://crmslot.vercel.app/pricing)
 - **[Serrurerie Pro](https://serrure.vercel.app)** — Field operations PWA (Next.js, TypeScript, Firebase, Stripe). [Source](https://github.com/alkhastvatsaev/Serrurerie-Alsacienne) · [Case study](https://alkhastvatsaev.dev/projects/serrurerie-pro)
 - **[Atelier Aurelia](https://atelier-aurelia-ring.vercel.app)** — Open-source 3D ring configurator (React, Three.js, React Three Fiber). [Source](https://github.com/alkhastvatsaev/atelier-aurelia-ring) · [Case study](https://alkhastvatsaev.dev/projects/atelier-aurelia)
 - **[LOGIS. 2030](https://reach-logistics.vercel.app)** — Logistics quote workflow (Next.js, Firebase, Playwright). [Source](https://github.com/alkhastvatsaev/logistic) · [Case study](https://alkhastvatsaev.dev/projects/logis-2030)
